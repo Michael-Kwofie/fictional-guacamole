@@ -2,7 +2,7 @@ name: 'My Web Page'
 description: 'So much potential'
 tagline: 'yada yada'
 url: 'http://Michael-Kwofie.github.io'
-baseurl: '/SampleWebsite'
+baseurl: '/fictional-guacamole'
 paginate: 10
 
 markdown: kramdown
