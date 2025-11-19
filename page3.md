@@ -7,3 +7,4 @@ layout: default
 ## Playground
 
 Edit this page to include either the Fundamental Theorem of Calculus, the First Isomorphism Theorem for Groups, or the Central Limit Theorem.  Use correct mathematical typesetting.
+ Given \\[\phi:G\to H\\], a group Homorphism then \\[\frac{G}{Ker(\phi)} \cong G\\]
